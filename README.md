@@ -64,14 +64,6 @@
 
 <br clear="both">
 
-<div align=center>
-	<picture >
-		  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SAKURA-CAT/SAKURA-CAT/raw/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SAKURA-CAT/SAKURA-CAT/raw/output/github-contribution-grid-snake.svg">
-		  <img alt="snake" src="https://github.com/SAKURA-CAT/SAKURA-CAT/raw/output/github-contribution-grid-snake.svg">
-	</picture>
-</div>
-
 <div align="center">
   <a href="mailto:maxvalue.builder@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo"  />
