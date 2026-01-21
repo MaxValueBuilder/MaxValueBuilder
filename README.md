@@ -70,7 +70,6 @@
 </div>
 
 <h2 align="left">📬 Connect With Me</h2>
-<br clear="both">
 <div align="center">
   <a href="mailto:maxvalue.builder@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo"  />
