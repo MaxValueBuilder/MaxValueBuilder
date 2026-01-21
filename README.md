@@ -65,12 +65,11 @@
 ###
 
 <br clear="both">
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/solarmove/solarmove/output/snake.svg" alt="Snake animation" />
 </div>
 
-<h2 align="center">📬 Connect With Me</h2>
+<h2 align="left">📬 Connect With Me</h2>
 <br clear="both">
 <div align="center">
   <a href="mailto:maxvalue.builder@gmail.com" target="_blank">
