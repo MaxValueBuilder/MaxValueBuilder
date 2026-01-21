@@ -7,7 +7,7 @@
 
 ###
 <h3 align="left">🛠️ Tech Stack</h3>
-<br>
+<br clear="both">
 <div align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="70" alt="flutter logo" />
