@@ -75,9 +75,9 @@
 
 <img src="https://images.credly.com/size/80x80/images/eac36d96-56e9-4ad7-a0d3-1e3f53c547d0/OCPJSE8_cached_image_20251230-34-utfiwt.png" alt="Oracle Certified Professional, Java SE 8 Programmer" width="80" height="80">
 
-<img src="https://images.credly.com/size/80x80/images/0ec4932d-a5d4-4879-9f3e-462eed8d8768/image.png" alt="[CLE-10-01] CLE – C Certified Entry-Level Programmer" width="80" height="80" style="margin: 0 10px;">
+<img src="https://images.credly.com/size/80x80/images/0ec4932d-a5d4-4879-9f3e-462eed8d8768/image.png" alt="[CLE-10-01] CLE – C Certified Entry-Level Programmer" width="80" height="80" style="margin: 0 10;">
 
-<img src="https://images.credly.com/size/80x80/images/1d36cb36-20fc-4961-8d70-6307c015d1aa/blob" alt="Linux Essentials Certificate" width="80" height="80" style="margin: 0 10px;">
+<img src="https://images.credly.com/size/80x80/images/1d36cb36-20fc-4961-8d70-6307c015d1aa/blob" alt="Linux Essentials Certificate" width="80" height="80" style="margin: 0 10;">
 
 <img src="https://images.credly.com/size/80x80/images/51720c50-39e4-41f5-abe5-c4ae12b8e26c/image.png" alt="[CPE-20-01] CPE – C++ Certified Entry-Level Programmer" width="80" height="80">
 
